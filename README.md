@@ -2,9 +2,6 @@
 
 I am a *temporary assistant professor of History* at **Utah State University**.
 
-<!--
-**chrisbabits/chrisbabits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Some things about me:
 
 - 🔭 I’m currently working on learning GitHub for *ITLS 6265*.
