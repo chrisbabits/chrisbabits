@@ -9,5 +9,5 @@ Some things about me:
 - 💬 Ask me about **Modern U.S. History** since I have a Ph.D. in that!
 - 📫 How to reach me: *chris.babits@usu.edu*
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I did **not** talk until I was 8 years old.
+- ⚡ Fun fact: I did not talk until I was 8 years old.
 ```
